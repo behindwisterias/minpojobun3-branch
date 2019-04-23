@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mg.minpojobun3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".Main6Activity" />
+        <activity android:name=".Main7Activity" />
+        <activity android:name=".Main8Activity" />
+        <activity android:name=".Main9Activity" />
+        <activity android:name=".Main10Activity" />
+        <activity android:name=".Main11Activity" />
+        <activity android:name=".Main12Activity" />
+        <activity android:name=".DailiActivity" />
+        <activity android:name=".Daili2Activity" />
+        <activity android:name=".Daili3Activity" />
+        <activity android:name=".Daili4Activity" />
+        <activity android:name=".ShutokujikoActivity" />
+        <activity android:name=".Shutokujiko2Activity" />
+        <activity android:name=".Shutokujiko3Activity" />
+        <activity android:name=".Shutokujiko4Activity" />
+        <activity android:name=".Shutokujiko5Activity" />
+        <activity android:name=".Shutokujiko6Activity" />
+        <activity android:name=".Shutokujiko7Activity" />
+        <activity android:name=".ShometsujikoActivity" />
+        <activity android:name=".Shometsujiko2Activity" />
+        <activity android:name=".Shometsujiko3Activity" />
+        <activity android:name=".Shometsujiko4Activity" />
+        <activity android:name=".BukkenActivity" />
+        <activity android:name=".BukkensosokuActivity" />
+        <activity android:name=".Bukkensosoku2Activity" />
+        <activity android:name=".Bukkensosoku3Activity" />
+        <activity android:name=".Bukkensosoku4Activity" />
+        <activity android:name=".SenyukoryokuActivity" />
+        <activity android:name=".Senyukoryoku2Activity" />
+        <activity android:name=".Senyukoryoku3Activity" />
+        <activity android:name=".Senyukoryoku4Activity" />
+        <activity android:name=".SenyushutokuActivity" />
+        <activity android:name=".Senyushutoku2Activity" />
+        <activity android:name=".Senyushutoku3Activity" />
+        <activity android:name=".Senyushutoku4Activity" />
+        <activity android:name=".RyuchikenActivity" />
+        <activity android:name=".Ryuchiken2Activity" />
+        <activity android:name=".Ryuchiken3Activity" />
+        <activity android:name=".Ryuchiken4Activity" />
+        <activity android:name=".TeitokenActivity" />
+        <activity android:name=".Teitoken2Activity" />
+        <activity android:name=".Teitoken3Activity" />
+        <activity android:name=".Teitoken4Activity" />
+        <activity android:name=".SaikenActivity" />
+        <activity android:name=".SaikenmokutekiActivity" />
+        <activity android:name=".Saikenmokuteki2Activity" />
+        <activity android:name=".Saikenmokuteki3Activity" />
+        <activity android:name=".Saikenmokuteki4Activity" />
+        <activity android:name=".Saikenmokuteki5Activity" />
+        <activity android:name=".SaimufurikoActivity" />
+        <activity android:name=".Saimufuriko2Activity" />
+        <activity android:name=".Saimufuriko3Activity" />
+        <activity android:name=".Saimufuriko4Activity" />
+        <activity android:name=".BensaiActivity" />
+        <activity android:name=".Bensai2Activity" />
+        <activity android:name=".Bensai3Activity" />
+        <activity android:name=".Bensai4Activity" />
+        <activity android:name=".KeiyakukoryokuActivity" />
+        <activity android:name=".Keiyakukoryoku2Activity" />
+        <activity android:name=".Keiyakukoryoku3Activity" />
+        <activity android:name=".Keiyakukoryoku4Activity" />
+        <activity android:name=".KeiyakukaijoActivity" />
+        <activity android:name=".Keiyakukaijo2Activity" />
+        <activity android:name=".Keiyakukaijo3Activity" />
+        <activity android:name=".Keiyakukaijo4Activity" />
+        <activity android:name=".Keiyakukaijo5Activity" />
+        <activity android:name=".Keiyakukaijo6Activity" />
+        <activity android:name=".Keiyakukaijo7Activity" />
+        <activity android:name=".Baibaisosoku2Activity" />
+        <activity android:name=".Baibaisosoku3Activity" />
+        <activity android:name=".Baibaisosoku4Activity" />
+        <activity android:name=".BaibaisosokuActivity" />
+        <activity android:name=".RonshoActivity" />
+        <activity android:name=".Saimufuriko5Activity" />
+        <activity android:name=".Saimufuriko6Activity" />
+        <activity android:name=".Saimufuriko7Activity"></activity>
+    </application>
+
+</manifest>
